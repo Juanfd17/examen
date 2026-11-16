@@ -1,4 +1,6 @@
 HELP.md
+
+# target/ ya esta añadido pero lo pondriamos aqui
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -14,6 +16,8 @@ target/
 .sts4-cache
 
 ### IntelliJ IDEA ###
+
+# .idea ya esta añadido pero lo pondriamos aqui
 .idea
 *.iws
 *.iml
